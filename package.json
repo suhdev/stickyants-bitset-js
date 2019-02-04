@@ -2,7 +2,7 @@
   "name": "stickyants-bitset-js",
   "version": "1.0.0",
   "description": "A Bit vector library that mirrors Java's BitSet class ",
-  "main": "lib/BitSet.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "jest __tests__"
   },
