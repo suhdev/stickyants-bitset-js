@@ -1,0 +1,30 @@
+{
+  "name": "stickyants-bitset-js",
+  "version": "1.0.0",
+  "description": "A Bit vector library that mirrors Java's BitSet class ",
+  "main": "lib/BitSet.js",
+  "scripts": {
+    "test": "jest __tests__"
+  },
+  "keywords": [
+    "Bit",
+    "BitSet",
+    "Java",
+    "Vector"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suhdev/stickyants-bitset-js"
+  },
+  "author": "Suhail Abood <suhail.abood>",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^23.3.13",
+    "jest": "^24.0.0",
+    "ts-jest": "^23.10.5",
+    "typescript": "^3.3.1"
+  },
+  "peerDependencies": {
+    "mobx": "^5.0 || ^4.0 || ^3.0"
+  }
+}
